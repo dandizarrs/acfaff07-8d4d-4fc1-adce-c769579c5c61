@@ -84,6 +84,9 @@
 1654647484.665000276s 1 https://api.dandiarchive.org/api/zarr/acfaff07-8d4d-4fc1-adce-c769579c5c61.zarr/0/0/0/5/3/7
 1654647486.884268387s 1 https://api.dandiarchive.org/api/zarr/acfaff07-8d4d-4fc1-adce-c769579c5c61.zarr/0/0/0/5/3/8
 1654647488.99259403s 1 https://api.dandiarchive.org/api/zarr/acfaff07-8d4d-4fc1-adce-c769579c5c61.zarr/0/0/0/5/3/9
+1655242924.250841s 1 https://api.dandiarchive.org/api/zarr/acfaff07-8d4d-4fc1-adce-c769579c5c61.zarr/1/0/0/1/3/2
+1655242925.960058s 1 https://api.dandiarchive.org/api/zarr/acfaff07-8d4d-4fc1-adce-c769579c5c61.zarr/1/0/0/1/3/3
+1655242932.828212s 1 https://api.dandiarchive.org/api/zarr/acfaff07-8d4d-4fc1-adce-c769579c5c61.zarr/1/0/0/1/3/7
 1654643096.039877659s 1 https://dandiarchive.s3.amazonaws.com/zarr/acfaff07-8d4d-4fc1-adce-c769579c5c61/0/0/0/2/6/12?versionId=1aipXW2LAnIw2y7SdqJGRXI8Poyt3rSI
 1654643099.569461292s 1 https://dandiarchive.s3.amazonaws.com/zarr/acfaff07-8d4d-4fc1-adce-c769579c5c61/0/0/0/2/6/13?versionId=DO.wrgaAv21bG.ciph2XIzNTrYSzE1JQ
 1654643104.368804911s 1 https://dandiarchive.s3.amazonaws.com/zarr/acfaff07-8d4d-4fc1-adce-c769579c5c61/0/0/0/2/6/14?versionId=JnDLRAaEcAkbrq2_.M24ynkBRUkm85KG
@@ -170,3 +173,6 @@
 1654647484.632903779s 1 https://dandiarchive.s3.amazonaws.com/zarr/acfaff07-8d4d-4fc1-adce-c769579c5c61/0/0/0/5/3/7?versionId=XFvnl9qf.d0.b.MPpsESdl8VwaUd11Kz
 1654647486.792390266s 1 https://dandiarchive.s3.amazonaws.com/zarr/acfaff07-8d4d-4fc1-adce-c769579c5c61/0/0/0/5/3/8?versionId=ND5tX5CEE4NktyWK4Dku_dTaCkC3ywEQ
 1654647488.935539264s 1 https://dandiarchive.s3.amazonaws.com/zarr/acfaff07-8d4d-4fc1-adce-c769579c5c61/0/0/0/5/3/9?versionId=09YbxROTz1dzDmFXw20u0MuxKL_fJUNO
+1655242924.23827s 1 https://dandiarchive.s3.amazonaws.com/zarr/acfaff07-8d4d-4fc1-adce-c769579c5c61/1/0/0/1/3/2?versionId=P0_I9byrVUYT.SF8iArvC4lXiMueJ0oJ
+1655242925.931691s 1 https://dandiarchive.s3.amazonaws.com/zarr/acfaff07-8d4d-4fc1-adce-c769579c5c61/1/0/0/1/3/3?versionId=peQkZ6ILw0C8GR42_4NDsWTkhZ_zKXRO
+1655242932.807078s 1 https://dandiarchive.s3.amazonaws.com/zarr/acfaff07-8d4d-4fc1-adce-c769579c5c61/1/0/0/1/3/7?versionId=H.JPeoLCj9kqaNTlyqw3jCpmKN.7BXp3
